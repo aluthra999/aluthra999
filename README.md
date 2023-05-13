@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Luthra</h1>
+<h1 align="center">Hi, I'm Ankit Luthra</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <a href="https://twitter.com/pb02ankt" target="blank"><img src="https://img.shields.io/twitter/follow/pb02ankt?logo=twitter&style=for-the-badge" alt="pb02ankt" /></a> </p>
