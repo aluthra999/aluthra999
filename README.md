@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pyton, JS, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aluthra999](https://github.com/aluthra999)
+- 👨‍💻 All of my projects are available at: <a href="https://codepen.io/aluthra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aluthra99" height="30" width="40" /></a> | <a href="https://github.com/aluthra999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="aluthra99" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/aluthra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aluthra999" height="30" width="40" /></a>
 <a href="https://instagram.com/pb02ankt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pb02ankt" height="30" width="40" /></a>
 <a href="https://www.behance.net/pb02ankt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pb02ankt" height="30" width="40" /></a>
-<a href="https://codepen.io/aluthra99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="pb02ankt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
