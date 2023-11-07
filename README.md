@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pyton, JS, Bootstrap**
 
-- 👨‍💻 All of my projects are available at: <a href="https://codepen.io/aluthra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aluthra99" height="30" width="40" /></a> | <a href="https://github.com/aluthra999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="aluthra99" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at: <a href="https://codepen.io/aluthra99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="aluthra99" height="30" width="40" /></a> | <a href="https://github.com/aluthra999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="aluthra99" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
